@@ -1,5 +1,6 @@
 # GPGerrorLinuxFix
 Usage:
 <br>
-       chmod +x fix.sh
-       ./fix.sh
+      1. chmod +x fix.sh
+       <br>
+      2. ./fix.sh
