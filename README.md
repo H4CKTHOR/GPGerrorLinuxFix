@@ -1,4 +1,5 @@
 # GPGerrorLinuxFix
-Type the below code in the terminal
+Usage:
 <br>
-chmod +x fix.sh
+       chmod +x fix.sh
+       ./fix.sh
