@@ -5,3 +5,5 @@ sleep 2
 dpkg -i kali-archive-keyring_2022.1_all.deb
 sleep 3
 echo "FIXED!"
+sleep 2
+sudo apt-get update -y
